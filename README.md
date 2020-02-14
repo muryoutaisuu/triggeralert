@@ -2,7 +2,7 @@
 
 Splunk App for manually triggering a Splunk Alert.
 
-_Hint: This script just prematurely triggers an alert. The alert condition has to match for an actual event to take place! Beware that throttling will be complied with!_
+_Hint: This script just prematurely triggers an alert. The alert condition has to match for an actual action to take place! Beware that throttling will be complied with!_
 
 ## Use Cases
 
